@@ -1,7 +1,7 @@
 ### MultiHop-Simulator
 
 
-Source code of the MultiHop-Simulator to validate and reproduce some of the results in Tripathi et al. "Information Freshness in Multihop Wireless Networks Vishrant" [[1]](#1).
+Source code of the MultiHop-Simulator to validate and reproduce some of the results in Tripathi et al. "Information Freshness in Multihop Wireless Networks" [[1]](#1).
 
 ## Age-Debt Policy and Simulator Validation Results
 
