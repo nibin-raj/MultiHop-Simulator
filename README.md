@@ -74,7 +74,7 @@ In [[1]](#1), two interference scenarios were considered for the evaluation. The
 #### Simulation Results
 
 ![Reproduced Age-Difference and Age-Debt Policy Results](https://github.com/nibin-raj/MultiHop-Simulator/tree/main/figures/agediff_agedebt_khop1_linenetwork.png)
-*Reproduced Age-Difference and Age-Debt policy results for a single-source scenario with $K$-hop interference constraint where $K=1$, showing similar results as given in [Figure 8 from [[1]](#1)].*
+*Reproduced Age-Difference and Age-Debt policy results for a single-source scenario with $`K`$-hop interference constraint where $`K=1`$, showing similar results as given in [Figure 8 from [[1]](#1)].*
 
 ![Reproduced Stationary Randomized Policy](https://github.com/nibin-raj/MultiHop-Simulator/tree/main/figures/Randomized_policylinenetwork_comparison.png)
 *Reproduced stationary randomized policy and its numerical plot according to [Eq. (7) from [[1]](#1)].*
