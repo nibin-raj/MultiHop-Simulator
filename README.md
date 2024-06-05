@@ -27,7 +27,7 @@ An Age-Debt queue $Q^{s \rightarrow i} (t)$ at an intermediate node $i$ for a so
 Q^{s \rightarrow i} (t+1) = \left[ Q^{s \rightarrow i} (t) + \min \{A_{i}^{s}(t), A_{0}^{s}(t) \} + h_{i}^L -\alpha_s \right]^{+}
 ```
 
-where $L$ is the set of adjacent links where node $i$ forwards the packets of source $s$, and $h_{ij}^L$ represents the minimum hop count required from node $i$ to reach destination $j$. Typically, $h_{ij}^L$ measures the delay of the packet from $k$ to reach the destination node $j$.
+where $L$ is the set of adjacent links where node $i$ forwards the packets of source $s$, and $h_{ij}^L$ represents the minimum hop count required from node $i$ to reach destination $j$. Typically, $h_{ij}^L$ measures the delay of the packet from $s$ to reach the destination node $j$.
 
 If node $i$ does not forward any packet to its adjacent nodes, the evolution is defined as:
 
