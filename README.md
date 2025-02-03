@@ -85,3 +85,7 @@ In [[1]](#1), two interference scenarios were considered for the evaluation. The
 <a id="1">[1]</a> 
 V. Tripathi et.al., "Information Freshness in Multihop Wireless Networks,", in IEEE/ACM Transactions on Networking, vol. 31, no. 2, pp. 784-799, April 2023, 
  doi: 10.1109/TNET.2022.3201751.
+
+## Acknowledgment
+
+This work is supported by the IIT-Palakkad IPTIF grant IPTIF/HRD/DF/022.
