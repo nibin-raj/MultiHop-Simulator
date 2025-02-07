@@ -89,3 +89,11 @@ V. Tripathi et.al., "Information Freshness in Multihop Wireless Networks,", in I
 ## Acknowledgment
 
 This work is supported by the IIT-Palakkad IPTIF grant IPTIF/HRD/DF/022.
+
+## Citation
+
+If you find this code useful, please cite:
+
+[1] N. Raj, V. B. S., and P. Sharma, "Periodic Deterministic Sampling and Scheduling Algorithms for Minimum Age of Information in Time-Slotted Multihop Networks," *IEEE Internet of Things Journal*, doi: [10.1109/JIOT.2024.3523024](https://doi.org/10.1109/JIOT.2024.3523024).
+
+[2] MultiHop-Simulator, [GitHub Repository](https://github.com/nibin-raj/MultiHop-Simulator.git), 2024.
